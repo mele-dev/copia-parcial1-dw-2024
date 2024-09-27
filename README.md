@@ -38,6 +38,8 @@
 
 ### Siempre debes usar los códigos de respuesta adecuados.
 
+### Siempre debes diseñar las rutas con los principios rest en mente.
+
 ### Debes tener en cuenta de validar cuando corresponda:
 
 - params
